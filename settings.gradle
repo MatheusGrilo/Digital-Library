@@ -1,0 +1,9 @@
+rootProject.name = 'digital-library'
+
+include 'common'
+//include 'user-service'
+//include 'book-service'
+//include 'loan-service'
+//include 'inventory-service'
+//include 'notification-service'
+//include 'report-service'
